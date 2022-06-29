@@ -1,0 +1,90 @@
+
+Attribute: frequency
+
+	Mean: 2886.380572 
+	Median: 1600.000000
+	Standard Deviation: 3152.573137
+
+	First Quartile: 800.000000 
+	Third Quartile: 4000.000000 
+	Range: 19800.000000 
+	Variance: 9938717.383697
+
+	AAD: 2293.449685 
+	MAD: 2086.380572 
+
+
+Attribute: aoa
+
+	Mean: 6.782302 
+	Median: 5.400000
+	Standard Deviation: 5.918128
+
+	First Quartile: 2.000000 
+	Third Quartile: 9.900000 
+	Range: 22.200000 
+	Variance: 35.024241
+
+	AAD: 4.947421 
+	MAD: 4.782302 
+
+
+Attribute: chord_length
+
+	Mean: 0.136548 
+	Median: 0.101600
+	Standard Deviation: 0.093541
+
+	First Quartile: 0.050800 
+	Third Quartile: 0.228600 
+	Range: 0.279400 
+	Variance: 0.008750
+
+	AAD: 0.080390 
+	MAD: 0.085748 
+
+
+Attribute: velocity
+
+	Mean: 50.860745 
+	Median: 39.600000
+	Standard Deviation: 15.572784
+
+	First Quartile: 39.600000 
+	Third Quartile: 71.300000 
+	Range: 39.600000 
+	Variance: 242.511614
+
+	AAD: 14.357055 
+	MAD: 11.260745 
+
+
+Attribute: displacement
+
+	Mean: 0.011140 
+	Median: 0.004957
+	Standard Deviation: 0.013150
+
+	First Quartile: 0.002535 
+	Third Quartile: 0.015576 
+	Range: 0.058011 
+	Variance: 0.000173
+
+	AAD: 0.010094 
+	MAD: 0.008192 
+
+
+Attribute: SPL
+
+	Mean: 124.835943 
+	Median: 125.721000
+	Standard Deviation: 6.898657
+
+	First Quartile: 120.191000 
+	Third Quartile: 129.995500 
+	Range: 37.607000 
+	Variance: 47.591463
+
+	AAD: 5.634024 
+	MAD: 4.940057 
+

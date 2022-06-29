@@ -1,0 +1,19 @@
+Richard Johnson
+L20455045
+
+Airfoil Self-Noise Data Set
+https://archive.ics.uci.edu/ml/datasets/Airfoil+Self-Noise
+
+1. Obtained Airfoil Self-Noise Data Set from https://archive.ics.uci.edu/ml/datasets/Airfoil+Self-Noise.
+2. Import necessary libraries in Python
+3. Load dataset into Python using Pandas
+4. Quick check to ensure data set was loaded correctly
+5. Setting column names
+6. Check data types of attributes
+7. Check for Null values in data set
+8. Quick description overview of data set of count, mean, std, min, 25% quartile range, 50% quartile range, 75% quartile range, and max
+9. Count the number of times each value was measured for each attribute
+10. Find the mean, median, and standard deviation of each attribute
+11. Calculate the 1st quartile, 3rd quartile, range and variance of each attribute
+12. Calculate the AAD and MAD of each attribute
+13. Write all measurements to a file named outputfile.txt
